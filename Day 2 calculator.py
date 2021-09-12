@@ -11,3 +11,9 @@ print(2/2) #floating may answer aayega
 print(int(2/2)) #int may answer aayega
 
 #remmeber python always take string in colon "hello world"
+
+#print(str(hello)) #error
+print(str("hello"))
+print(str("hello"+" world"))
+#print(int("hello + world")) error
+#print(int("hello") + int("world"))) error
