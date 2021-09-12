@@ -1,4 +1,4 @@
-#2+2 error only worlk on cmd
+#2+2 error only work on cmd
 #print(hello world) #error
 print("hello world")
 print(2+2) #integer may answer aayega
