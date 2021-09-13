@@ -10,3 +10,4 @@
 #
 # ###
 print("this is new life")
+print("red pill or blue pill")
