@@ -18,3 +18,6 @@ print("this is new life", "red pill or blue pill" , end=" and ")
 
 #you can write also this , comma means space also
 print("this is new life", "red pill or blue pill")
+
+print("my name is", end=" ")
+print("rajesh")
