@@ -69,3 +69,11 @@ print(10 * float(int(var15)+int(var16)))
 #print("enter a string")
 str1=input("enter your string")
 print("\n you entered:",str1)
+
+print("enter any number", end="")
+num=input()
+print(" you have entered:", num)
+
+print("enter any string", end="")
+num=str(input())
+print(" you have entered:", num)

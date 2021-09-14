@@ -23,3 +23,4 @@ print("c:\'rajeshalda")
 print("rajesh \n alda \t xaiver ")
 #result rajesh
 #new line alda 	 xaiver after gape of xavier is by \t means tab..
+
